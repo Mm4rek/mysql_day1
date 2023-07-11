@@ -1,0 +1,42 @@
+<mxfile host="65bd71144e">
+    <diagram id="qbN92btFmdJMqoe_B3VC" name="Page-1">
+        <mxGraphModel dx="966" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Library" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="550" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Books" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="370" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Author" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="430" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Shelf" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="425" y="370" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Shelf" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="430" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="740rxnVlXfR0QwS6qlu7" name="Page-2">
+        <mxGraphModel dx="966" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="jjBJAYzoqlZI7esLiwd4-1" value="Library" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="600" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jjBJAYzoqlZI7esLiwd4-2" value="Books" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jjBJAYzoqlZI7esLiwd4-3" value="Author" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
